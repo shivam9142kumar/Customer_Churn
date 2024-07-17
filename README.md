@@ -12,7 +12,7 @@ The Exploratory Data Analysis (EDA) phase revealed significant insights into cus
 The project culminated in the creation of visualizations like histograms and box plots, which compared monthly charges and other metrics between churned and non-churned customers. These findings are intended to guide strategies aimed at enhancing customer retention and minimizing churn in the telecom sector.
 
 
-                                                    Thank you for your interest in this project!
+                                        Thank you for your interest in this project!
 
 
 
